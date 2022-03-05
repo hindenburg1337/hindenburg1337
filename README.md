@@ -1,7 +1,7 @@
 <div align="center">
   
 ## About
-Hello, I am hobby developer, working on multiple open source projects, mainly backend using C# and C++. I want to create some stuff associated with the Jailbreak scene to become a trusted Jailbreak developer.
+Hello, I am hobby developer, working on multiple open source projects, mainly backend using C# and C++. I want to create some stuff associated with the Jailbreak scene to become a trusted developer in this scene.
 
 -------------------
 
